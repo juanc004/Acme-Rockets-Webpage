@@ -25,12 +25,6 @@ npm start
 
 Once the project has been installed, you can modify the HTML and CSS files to customize the website. The main.js script is used for interactive features.
 
-To build the project for production, run:
-
-```bash
-npm run build
-```
-
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
