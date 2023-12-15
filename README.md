@@ -8,15 +8,6 @@ No heavy frameworks here – just some plain old vanilla JavaScript to make thin
 
 So, if you're into clean code, slick design, and a touch of space madness, take a look around. This is where tech skills and starry dreams come together. 🚀✨
 
-## Table of Contents
-
-Table of Contents
-Installation
-Usage
-Contributing
-Credits
-License
-
 ## Installation
 
 To set up the project environment:
